@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Simplify0x - aka Simplify0x 👋
 
-<!--
-**Simplify0x/Simplify0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a C++ Developer
 
-Here are some ideas to get you started:
+- 🌱 Empty Project : https://empty.wtf/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- ⚙️ Some languages that i code btw:
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+
+<br />
+
+## Github Stats
+
+- 🔨 My Github Status:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Simplify0x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
