@@ -1,5 +1,3 @@
-## aka Simplify0x
-
 ## Just a simple developer
 
 - 🌱 Empty Project : https://empty.wtf/
