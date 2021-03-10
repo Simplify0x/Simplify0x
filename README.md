@@ -1,4 +1,4 @@
-### aka Simplify0x Here
+## aka Simplify0x
 
 ## Just a simple developer
 
