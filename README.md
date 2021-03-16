@@ -1,7 +1,3 @@
-## Just a simple developer
-
-- 🌱 Empty Project : https://empty.wtf/
-
 ## Languages
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
